@@ -8,11 +8,11 @@ Before playing this game, you need to have Python installed on your computer.
 
 ## How to Play
 
-To play the game, simply run the "game.py" file in a Python environment. The game will start automatically.
+To play the game, simply run the "main.py" file in a Python environment. The game will start automatically.
 
 The player must use the arrow keys to move the character left and right along the walkway. The goal is to make it to the end of the walkway without falling off. If the player falls off the walkway, they will lose a try and have to start again from the beginning. 
 
-The game has a tries counter that keeps track of the number of attempts the player has made. The player can only have a limited number of tries before the game ends. 
+The game has a tries counter that keeps track of the number of attempts the player has made.
 
 ## Controls
 
@@ -27,8 +27,6 @@ The game is controlled using the following keys:
 - Screen scrolling
 - Collision detection
 - Tries counter
-- Randomly generated walkway
-- Increasing difficulty as the player progresses
 
 ## License
 
