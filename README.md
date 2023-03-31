@@ -4,7 +4,8 @@ This is a screen scroll game made in Python where the player must navigate throu
 
 ## Prerequisites
 
-Before playing this game, you need to have Python installed on your computer and have pygame. `pip install pygame`
+Before playing this game, you need to have Python installed on your computer and have pygame. 
+`pip install pygame`
 
 ## How to Play
 
